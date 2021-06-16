@@ -1,7 +1,7 @@
 # SUSE-Scholarship-Cloud-Native
 SUSE Scholarship Challenge #UdacitySUSEScholars #poweredbySUSE
 
-## Day 1 : June 14 , 2021 | Challenge Starting
+## Day 1 : June 14, 2021 | Challenge Starting
 
 Today I accept Daily Scrum Challenge Sprint #1
 
@@ -11,9 +11,20 @@ Today I accept Daily Scrum Challenge Sprint #1
   3. What issues are blocking my progress?
 
 ### #daily_scrum 
-  1. Yesterday I did Exercise: Trade-offs for Monoliths and Microservices (Lesson 2.7)
+  1. Yesterday Yesterday I followed the instructions for installation.
   2. Today I created a Github repository with my progress and I learned about Design Considerations for Cloud-Native Applications (Lesson 2.2)
   3. I am a beginner so I am still learning. So far I do not have issues.
   
 ### My activities
   I joined to the group #st_spanish
+
+
+## Day 2 : June 15, 2021 | Monoliths and Microservices
+
+### #daily_scrum 
+  1. Yesterday I finished Lesson 1 and I started Lesson 2
+  2. Today I will learned about Monoliths and Microservices (Lesson 2.3)
+  3. No blockers
+  
+### My activities
+  Today I read some posts of #resources channel
