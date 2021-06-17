@@ -28,3 +28,13 @@ Today I accept Daily Scrum Challenge Sprint #1
   
 ### My activities
   Today I read some posts of #resources channel
+
+## Day 3 : June 16, 2021 | Trade-offs for Monoliths and Microservices
+
+### #daily_scrum 
+  1. Yesterday I learned about Monoliths and Microservices, the quizz has good examples (Lesson 2.4)
+  2. Today I am learning about Trade-offs for Monoliths and Microservices
+  3. No blockers
+  
+### My activities
+  Today I joined to the group #st_latin_america_spanish and I answered some questions in #st_spanish
