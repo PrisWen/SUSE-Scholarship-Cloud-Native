@@ -38,3 +38,18 @@ Today I accept Daily Scrum Challenge Sprint #1
   
 ### My activities
   Today I joined to the group #st_latin_america_spanish and I answered some questions in #st_spanish
+
+## Day 4 : June 17, 2021 | Best Practices For Application Deployment
+
+### #daily_scrum 
+  1. Yesterday I took the quizz about trade-offs for Monoliths and Microservices
+  2. Today I am learning about Best Practices For Application Deployment
+  3. No blockers
+  
+### My activities
+  I posted an image in #motivation channel. Every message inspires me
+
+[D4]: https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D4_believe.PNG
+
+#### CRISP-DM
+![ CRISP-DM ][D4]
