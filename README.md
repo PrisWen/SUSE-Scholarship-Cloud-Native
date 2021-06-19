@@ -51,5 +51,15 @@ Today I accept Daily Scrum Challenge Sprint #1
 
 [D4]: https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D4_believe.PNG
 
-#### CRISP-DM
-![ CRISP-DM ][D4]
+#### MOTIVATION
+![ MOTIVATION ][D4]
+
+## Day 5 : June 18, 2021 | Exercise: Endpoints for Application Status
+
+### #daily_scrum 
+  1. Yesterday I learned about Best Practices For Application Deployment
+  2. Today I am working with the course exercise repository
+  3. No blockers
+  I would like to encourage @susyjam @viena.baca   
+### My activities
+  Today we talked about the meetings we will have once a week in the study group #st_spanish
