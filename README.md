@@ -63,3 +63,18 @@ Today I accept Daily Scrum Challenge Sprint #1
   I would like to encourage @susyjam @viena.baca   
 ### My activities
   Today we talked about the meetings we will have once a week in the study group #st_spanish
+
+## Day 6 : June 19, 2021 | Transitions from VMs to Containers
+
+### #daily_scrum 
+  1. Yesterday I finished lesson 2 
+  2. Today I am working with Transitions from VMs to Containers(Lesson 3.2)
+  3. No blockers
+  
+### My activities
+  Today was the first meeting in #st_spanish
+
+[D6]: https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D6_meeting_1.PNG
+
+#### #ST_SPANISH
+![ MOTIVATION ][D6]
