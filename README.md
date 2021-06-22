@@ -92,7 +92,7 @@ Today I accept Daily Scrum Challenge Sprint #1
 https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D7_1_docker_objects.PNG
   
 ### My activities
-  Today I join to #st_spaic and I want to thank @Serge for the quiz in #l1_cloud_fundamentals
+  Today I joined to #st_spaic and I want to thank @Serge for the quiz in #l1_cloud_fundamentals
 
 [D7_2]: 
 https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D7_2_quiz_l1.PNG
@@ -101,3 +101,20 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D7_2_q
 ![ DOCKER OBJECTS ][D7_1]
 #### #QUIZ L1 CLOUD FUNDAMENTALS
 ![ QUIZ L1 CLOUD FUNDAMENTALS][D7_2]
+
+## Day 8 : June 21, 2021 | Exercise: Docker for Application Packaging
+
+### #daily_scrum 
+  1. Yesterday I learned about Useful Docker Commands
+  2. Today I am working with Exercise: Docker for Application Packaging (Lesson 3.7) 
+  3. No blockers
+  I would like to encourage  @DSdatsme @MarK.Oisera 
+  
+### My activities
+  Team #st_spaic plans to reverse AMA meetings
+
+[D8]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D8_motivation_2.jpg
+
+#### #MOTIVATION 2
+![ MOTIVATION 2][D8]
