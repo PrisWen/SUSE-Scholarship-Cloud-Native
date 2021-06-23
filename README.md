@@ -118,3 +118,13 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D8_mot
 
 #### #MOTIVATION 2
 ![ MOTIVATION 2][D8]
+
+## Day 9 : June 22, 2021 | Dockerfile
+
+### #daily_scrum 
+  1. Yesterday I worked with Docker for Application Packaging
+  2. Today I am still working with Docker container
+  3. The blocker is ERROR [4/4] RUN go build  -o helloworld
+  
+### My activities
+  Today I participated in AMA sessions
