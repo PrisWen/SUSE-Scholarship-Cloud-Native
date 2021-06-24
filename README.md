@@ -128,3 +128,21 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D8_mot
   
 ### My activities
   Today I participated in AMA sessions
+
+to prevent ERROR [4/4] RUN go build  -o helloworld just add RUN go mod init
+
+## Day 10 : June 23, 2021 | Kubernetes Architecture
+
+### #daily_scrum 
+  1. Yesterday I worked with Exercise: Docker for application packaging. (To prevent ERROR [4/4] RUN go build  -o helloworld just add RUN go mod init) Thanks to @LinuxRobotGeek for helping me
+  2. Today I learned about Kubernetes Architecture (Lesson L3.9)
+  3. No blockers
+  
+### My activities
+  I posted how to prevent ERROR [4/4] RUN go build in channel #l3_container_orchestation and I understand better how the image is generated
+  
+[D10]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D10_kubernets_architecture.PNG
+
+#### #Kubernetes Architecture
+![ Kubernetes Architecture ][D10]
