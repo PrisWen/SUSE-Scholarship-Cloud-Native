@@ -137,6 +137,7 @@ to prevent ERROR [4/4] RUN go build  -o helloworld just add RUN go mod init
   1. Yesterday I worked with Exercise: Docker for application packaging. (To prevent ERROR [4/4] RUN go build  -o helloworld just add RUN go mod init) Thanks to @LinuxRobotGeek for helping me
   2. Today I learned about Kubernetes Architecture (Lesson L3.9)
   3. No blockers
+  I would like to encourage @Nicolas.Pauli @purna.nugraha
   
 ### My activities
   I posted how to prevent ERROR [4/4] RUN go build in channel #l3_container_orchestation and I understand better how the image is generated
@@ -146,3 +147,22 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D10_ku
 
 #### #Kubernetes Architecture
 ![ Kubernetes Architecture ][D10]
+
+## Day 11 : June 24, 2021 | Deploy Your First Kubernetes Cluster
+
+### #daily_scrum 
+  1. Yesterday I learned about Kubernetes Architecture
+  2. Today I am deploying my first Kubernetes Cluster (Lesson L3.11)
+  3. No blockers
+  I would like to encourage @Karen.Gonzalez @Ulises.GO
+
+### My activities
+  Today I reviewed documentation about Docker
+
+[D11]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D11_Kubernetes_Cluster.PNG
+
+#### #Kubernetes Architecture
+![ Kubernetes Architecture ][D11]
+  
+  
