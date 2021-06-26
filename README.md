@@ -162,7 +162,23 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D10_ku
 [D11]: 
 https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D11_Kubernetes_Cluster.PNG
 
-#### #Kubernetes Architecture
-![ Kubernetes Architecture ][D11]
+#### #My Virtual Machine
+![ My Virtual Machine ][D11]
   
+## Day 12 : June 25, 2021 | Kubeconfig
+
+### #daily_scrum 
+  1. Yesterday I deployed my first Kubernetes Cluster
+  2. Today I am working with Kubeconfig (Lesson L3.12)
+  3. No blockers
+  I would like to encourage @ayse.nur and @Khalid.Waleed
+
+### My activities
+  I participated with #st_spaic, we had a nice reverse AMA weekly meeting
+
+[D12]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D12_reverse_AMA_spaic.PNG
+
+#### #Revese AMA #st_spaic
+![ Revese AMA #st_spaic ][D12]
   
