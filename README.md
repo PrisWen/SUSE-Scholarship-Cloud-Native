@@ -181,4 +181,26 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D12_re
 
 #### #Revese AMA #st_spaic
 ![ Revese AMA #st_spaic ][D12]
+
+## Day 13 : June 26, 2021 | Kubeconfig with Linux
+
+### #daily_scrum 
+  1. Yesterday I worked with cluster bootstrapped with "kind"
+  2. I had a blocker with "kind" in Windows 10 so I decided to work with Linux. I hope it works
+  3. No blockers for the moment
+  I would like to encourage @Jorge.Barrera and @Juan.Carlos.Jimenez 
+
+### My activities
+  I participated with fun activities organized by #st_spaic and the second meeting about Docker organized by #st_spanish
+
+[D14_1]:
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D13_st_spaic.PNG
+[D14_2]:
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D13_st_spanish.PNG
+
+#### Fun activities #st_spaic
+![ Fun activities #st_spaic ][D14_1]
+  
+#### Docker #st_spanish
+![ Docker #st_spanish ][D14_2]
   
