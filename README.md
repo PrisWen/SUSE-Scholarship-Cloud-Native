@@ -203,4 +203,14 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D13_st
   
 #### Docker #st_spanish
 ![ Docker #st_spanish ][D14_2]
-  
+
+## Day 14 : June 27, 2021 | kubectl commands
+
+### #daily_scrum 
+  1. Yesterday finally I deployed my first kubernetes cluster 
+  2. Today I am learning about kubectl commands
+  3. No blockers
+  I would like to encourage
+
+### My activities
+  I read 5 Bullet Sunday an interesting iniciative by #st_spaic
