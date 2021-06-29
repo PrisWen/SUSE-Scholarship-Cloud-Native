@@ -210,7 +210,18 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D13_st
   1. Yesterday finally I deployed my first kubernetes cluster 
   2. Today I am learning about kubectl commands
   3. No blockers
-  I would like to encourage
+  I would like to encourage @Raunak.Sarada and @Mohit Sonar
 
 ### My activities
   I read 5 Bullet Sunday an interesting iniciative by #st_spaic
+  
+## Day 15 : June 28, 2021 | Kubernetes Resources 
+
+### #daily_scrum 
+  1. Yesterday I learned about kubectl commands
+  2. Today I am learning about Kubernetes Resources part 1
+  3. No blockers
+  I would like to encourage @Patricio.Rojas and @Jefo
+
+### My activities
+  I completed Sprint #1 of the Daily Scrum Challenge!
