@@ -215,7 +215,7 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D13_st
 ### My activities
   I read 5 Bullet Sunday an interesting iniciative by #st_spaic
   
-## Day 15 : June 28, 2021 | Kubernetes Resources 
+## Day 15 : June 28, 2021 | Kubernetes Resources part 1
 
 ### #daily_scrum 
   1. Yesterday I learned about kubectl commands
@@ -225,3 +225,20 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D13_st
 
 ### My activities
   I completed Sprint #1 of the Daily Scrum Challenge!
+  
+## Day 16 : June 29, 2021 | The Docker Handbook 
+
+### #daily_scrum 
+  1. Yesterday I learned about Application Deployment
+  2. Today I reviewed the resource 'The Docker Handbook'
+  3. No blockers
+  I would like to encourage @Nuria.Malet and @susyjam 
+
+### My activities
+  I attended AMA sessions with @Isabella.Udacity and @Palak.Udacity  
+   
+[D16]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D16_docker_handbook.PNG
+
+#### Docker Handbook
+![ Docker Handbook ][D16]
