@@ -230,7 +230,7 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D13_st
 
 ### #daily_scrum 
   1. Yesterday I learned about Application Deployment
-  2. Today I reviewed the resource 'The Docker Handbook'
+  2. Today I reviewed the resource 'The Docker Handbook' by Freecodecamp
   3. No blockers
   I would like to encourage @Nuria.Malet and @susyjam 
 
@@ -242,3 +242,15 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D16_do
 
 #### Docker Handbook
 ![ Docker Handbook ][D16]
+
+## Day 17 : June 30, 2021 | Kubernetes Services
+
+### #daily_scrum 
+  1. Yesterday I reviewed resources about Docker
+  2. Today I am learning about Kubernetes Services
+  3. No blockers
+  I would like to encourage @bhawna and @Viral.Mamniya
+
+### My activities
+  I learned more important topics with flashcards in #st_spaic
+   
