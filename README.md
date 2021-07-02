@@ -253,4 +253,14 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D16_do
 
 ### My activities
   I learned more important topics with flashcards in #st_spaic
-   
+  
+## Day 18 : July 1, 2021 | Kubernetes Configmap
+
+### #daily_scrum 
+  1. Yesterday I learned about Kubernetes Services
+  2. Today I am learning about Kubernetes Configmap
+  3. No blockers
+  I would like to encourage @Frida and @Juan.Carlos.Kuri.Pinto 
+
+### My activities
+  I watched some videos about Docker
