@@ -264,3 +264,20 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D16_do
 
 ### My activities
   I watched some videos about Docker
+
+## Day 19 : July 2, 2021 | Useful kubectl Commands 
+
+### #daily_scrum 
+  1. Yesterday I learned about Kubernetes Configmap
+  2. Today I am learning about Useful kubectl Commands 
+  3. No blockers
+  I would like to encourage @Haris.Muhammad and @Dinky.Dudeja
+
+### My activities
+  Every friday #st_spaic organizes reverse AMA meeting, as always I love participating in these nice activities
+
+[D19]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D19_kubectl_commands.PNG
+
+#### Kubectl commands
+![ Kubectl commands ][D19]
