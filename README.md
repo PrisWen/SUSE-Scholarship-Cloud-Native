@@ -281,3 +281,25 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D19_ku
 
 #### Kubectl commands
 ![ Kubectl commands ][D19]
+
+## Day 20 : July 3, 2021 | Declarative Kubernetes Manifests
+
+### #daily_scrum 
+  1. Yesterday I learned about Useful kubectl Commands 
+  2. Today I am learning about Declarative Kubernetes Manifests. 
+  3. No blockers
+  I would like to encourage @Kapil.C and @EviG 
+
+### My activities
+  I participated with #st_spaic and #st_spanish with interesting activities
+
+[D20_1]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D20_st_spaic.PNG
+[D20_2]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D20_st_spanish.PNG
+
+#### st_spaic
+![ st_spaic ][D20_1]
+
+#### st_spanish
+![ st_spanish ][D20_2]
