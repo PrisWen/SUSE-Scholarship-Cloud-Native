@@ -303,3 +303,14 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D20_st
 
 #### st_spanish
 ![ st_spanish ][D20_2]
+
+## Day 21 : July 4, 2021 | Open Source PaaS
+
+### #daily_scrum 
+  1. Yesterday I learned about Declarative Kubernetes Manifests. 
+  2. Today I am starting Lesson 4
+  3. No blockers
+  I would like to encourage @Srishti.Guleria and @Santhosh.G.S
+
+### My activities
+  Today I completed the recommended course timeline
