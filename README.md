@@ -314,3 +314,22 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D20_st
 
 ### My activities
   Today I completed the recommended course timeline
+
+## Day 22 : July 5, 2021 | Cluster Management
+
+### Sprint 2 Day 1
+
+### #daily_scrum 
+  1. Yesterday I started Lesson 4
+  2. Today I am learning about Cluster Management
+  3. No blockers
+  I would like to encourage @Jorge.Barrera and @susyjam
+
+### My activities
+  Today I filled Sprint#2 Commitment Form
+
+[D22]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D22_sprint2.PNG
+
+#### Sprint 2
+![ Sprint 2 ][D22]
