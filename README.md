@@ -333,3 +333,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D22_sp
 
 #### Sprint 2
 ![ Sprint 2 ][D22]
+
+## Day 23 : July 6, 2021 | PaaS Mechanisms
+
+### Day 2 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about Cluster Management
+  2. Today I am learning about PaaS Mechanisms
+  3. No blockers
+  I would like to encourage @Haris.Muhammad and @Anuj.Sharma
+
+### My activities
+  Today I participated in Live AMA session
+
