@@ -348,7 +348,7 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D22_sp
   Today I participated in Live AMA session
 
 
-## Day 24 : July 7, 2021 | 
+## Day 24 : July 7, 2021 | On Premise Vs Cloud
 
 ### Day 3 #Sprint 2 
 
@@ -361,8 +361,8 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D22_sp
 ### My activities
   Today I participated sharing my reflection
 
-[D22]: 
+[D24]: 
 https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D23_reflect.PNG
 
-#### Reflection
-![ Reflection ][D22]
+#### Reflection 
+![ Reflection ][D24]
