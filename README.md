@@ -347,3 +347,22 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D22_sp
 ### My activities
   Today I participated in Live AMA session
 
+
+## Day 24 : July 7, 2021 | 
+
+### Day 3 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about PaaS Mechanisms
+  2. Today I am learning about On Premise Vs Cloud
+  3. No blockers
+  I would like to encourage @DSdatsme @MarK.Oisera and @Frida
+
+### My activities
+  Today I participated sharing my reflection
+
+[D22]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D23_reflect.PNG
+
+#### Reflection
+![ Reflection ][D22]
