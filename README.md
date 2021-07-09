@@ -366,3 +366,16 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D23_re
 
 #### Reflection 
 ![ Reflection ][D24]
+
+## Day 25 : July 8, 2021 | Exercise: PaaS Mechanisms
+
+### Day 4 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about On Premise Vs Cloud
+  2. Today I am working with exercise: PaaS Mechanisms
+  3. No blockers
+  I would like to encourage @Nuria.Malet and @Viral.Mamniya
+
+### My activities
+  Today I read an article about Cloud Computing in 2021
