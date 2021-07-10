@@ -379,3 +379,20 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D23_re
 
 ### My activities
   Today I read an article about Cloud Computing in 2021
+  https://www.suse.com/c/cloud-computing-in-2021-what-you-should-know-about-public-private-hybrid-paas-saas-and-faas/
+
+## Day 26 : July 9, 2021 | Cloud Foundry
+
+### Day 5 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about PaaS Mechanisms
+  2. Today I am learning about Cloud Foundry
+  3. No blockers
+  I would like to encourage @Frida and @Khalid.Waleed
+
+### My activities
+  Today I read about Cloud Foundry
+  https://stackoverflow.com/questions/32047563/kubernetes-vs-cloudfoundry
+
+
