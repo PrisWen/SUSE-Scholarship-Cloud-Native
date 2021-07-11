@@ -395,4 +395,25 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D23_re
   Today I read about Cloud Foundry
   https://stackoverflow.com/questions/32047563/kubernetes-vs-cloudfoundry
 
+## Day 27 : July 10, 2021 | Exercise: Cloud Foundry
 
+### Day 6 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about Cloud Foundry
+  2. Today I am working with Exercise: Cloud Foundry
+  3. No blockers
+  I would like to encourage @Juan.Carlos.Kuri.Pinto and @Claudia.Everett 
+
+### My activities
+  Today I attended the weekly meetings in #st_spaic and #st_spanish channel
+
+[D27_1]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_spaic.PNG
+[D27_2]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st_spanish.PNG
+
+#### st_spaic
+![ st_spaic ][D27_1]
+#### st_spanish
+![ st_spanish ][D27_2]
