@@ -417,3 +417,16 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 ![ st_spaic ][D27_1]
 #### st_spanish
 ![ st_spanish ][D27_2]
+
+## Day 28 : July 11, 2021 |Edge Case: Function as a Service
+
+### Day 7 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I worked with Exercise: Cloud Foundry
+  2. Today I am learning about Edge Case: Function as a Service
+  3. No blockers
+  I would like to encourage @Yash.Bhamare.242 and @Dikshant.Dwivedi
+
+### My activities
+  Today I read some resources of #resources channel
