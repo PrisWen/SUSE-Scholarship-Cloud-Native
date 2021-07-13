@@ -430,3 +430,20 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 
 ### My activities
   Today I read some resources of #resources channel
+
+
+## Day 29 : July 12, 2021 | Exercise: Function as a Service
+
+### Day 8 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about Edge Case: Function as a Service
+  2. Today I am working with Exercise: Function as a Service
+  3. No blockers
+  I would like to encourage 
+
+### My activities
+  Today I watched a video about DOCKER (many people recommended)
+  https://youtu.be/CV_Uf3Dq-EU
+
+
