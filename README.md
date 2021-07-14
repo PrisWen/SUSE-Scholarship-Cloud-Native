@@ -445,5 +445,16 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 ### My activities
   Today I watched a video about DOCKER (many people recommended)
   https://youtu.be/CV_Uf3Dq-EU
+  
+## Day 30 : July 13, 2021 | Finishing Lesson 4
 
+### Day 9 #Sprint 2 
 
+### #daily_scrum 
+  1. Yesterday I worked with Exercise: Function as a Service
+  2. Today I am reviewing all the content of Lesson 4
+  3. No blockers
+  I would like to encourage @Juan.Carlos.Kuri.Pinto and @susyjam
+
+### My activities
+  Today I read inspiring student stories
