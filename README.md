@@ -458,3 +458,16 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 
 ### My activities
   Today I read inspiring student stories
+
+## Day 31 : July 14, 2021 | CI/CD with Cloud Native Tooling
+
+### Day 10 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I reviewed all the content of Lesson 4
+  2. Today I am starting with CI/CD with Cloud Native Tooling
+  3. No blockers
+  I would like to encourage @Nuria.Malet and @Verdoso
+
+### My activities
+  I learned more important topics with flashcards in #st_spaic
