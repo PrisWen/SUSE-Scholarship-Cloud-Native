@@ -471,3 +471,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 
 ### My activities
   I learned more important topics with flashcards in #st_spaic
+
+## Day 32 : July 15, 2021 | Continuous Application Deployment
+
+### Day 11 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I reviewed CI/CD with Cloud Native Tooling
+  2. Today I am learning about Continuous Application Deployment
+  3. No blockers
+  I would like to encourage @Patricio.Rojas and @AilineLim
+
+### My activities
+  I learned about Kafka 
+  https://www.youtube.com/watch?v=JalUUBKdcA0
