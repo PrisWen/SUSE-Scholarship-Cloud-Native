@@ -485,3 +485,16 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 ### My activities
   I learned about Kafka 
   https://www.youtube.com/watch?v=JalUUBKdcA0
+
+## Day 33 : July 16, 2021 | The CI Fundamentals
+
+### Day 12 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about Continuous Application Deployment
+  2. Today I am learning about CI Fundamentals
+  3. No blockers
+  I would like to encourage @Viral.Mamniya and @Haris.Muhammad
+
+### My activities
+  I am writing my student story
