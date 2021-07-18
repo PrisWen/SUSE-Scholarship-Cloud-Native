@@ -498,3 +498,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 
 ### My activities
   I am writing my student story
+
+## Day 34 : July 17, 2021 | Study Jam
+
+### Day 13 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about CI Fundamentals and I wrote my student story
+  2. Today I attended 10 activities #CloudSelfieChallenge, Crash course in 60 minutes, Data Pipelines with Apache Airflow, #EmojiRiddleChallenge RIDDLE, Understanding Computer Networks: What happens when you type google.com and hit enter? , Dual Robot Flask Demo, Icebreaker, Deep Reinforcement Learning, Cloud in Azure and Knowledge with Fun.
+  3. No blockers
+  I would like to say thank you for sharing your knowledge and fun activities @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @Syahril.Ramadhan @Md.Masud.Rana
+
+### My activities
+  Amazing activities with Study Jam
+
