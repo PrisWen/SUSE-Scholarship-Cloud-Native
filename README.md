@@ -524,3 +524,9 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 
 ### My activities
   I read some recommended resources
+  
+[D35]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D35_Collage_SJ.jpg
+
+#### Study Jam
+![ Study Jam ][D35]
