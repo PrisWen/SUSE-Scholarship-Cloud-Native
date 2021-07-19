@@ -512,3 +512,15 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 ### My activities
   Amazing activities with Study Jam
 
+## Day 35 : July 18, 2021 | Continuing Study Jam
+
+### Day 14 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I attended 10 activities: #CloudSelfieChallenge, Crash course in 60 minutes, Data Pipelines with Apache Airflow, #EmojiRiddleChallenge RIDDLE, Understanding Computer Networks: What happens when you type google.com and hit enter? , Dual Robot Flask Demo, Icebreaker, Deep Reinforcement Learning, Cloud in Azure and Knowledge with Fun.
+  2. Today I attended 3 activities: Study Jam Tunes, How to start career as DevOps Engineer and Bingo. Total: 13 activities :dancingpanda:
+  3. No blockers
+  I am very grateful to everyone for sharing your knowledge and being so kind to support us with different activities where I learned a lot @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @rajendra.ladkat @susyjam
+
+### My activities
+  I read some recommended resources
