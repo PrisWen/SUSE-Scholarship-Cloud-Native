@@ -518,9 +518,9 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D27_st
 
 ### #daily_scrum 
   1. Yesterday I attended 10 activities: #CloudSelfieChallenge, Crash course in 60 minutes, Data Pipelines with Apache Airflow, #EmojiRiddleChallenge RIDDLE, Understanding Computer Networks: What happens when you type google.com and hit enter? , Dual Robot Flask Demo, Icebreaker, Deep Reinforcement Learning, Cloud in Azure and Knowledge with Fun.
-  2. Today I attended 3 activities: Study Jam Tunes, How to start career as DevOps Engineer and Bingo. Total: 13 activities :dancingpanda:
+  2. Today I attended 4 activities: Study Jam Tunes, Complete Overview on Docker, How to start career as DevOps Engineer and Bingo. Total: 14 activities :dancingpanda:
   3. No blockers
-  I am very grateful to everyone for sharing your knowledge and being so kind to support us with different activities where I learned a lot @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @rajendra.ladkat @susyjam
+  I am very grateful to everyone for sharing your knowledge and being so kind to support us with different activities where I learned a lot @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam
 
 ### My activities
   I read some recommended resources
@@ -530,3 +530,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D35_Co
 
 #### Study Jam
 ![ Study Jam ][D35]
+
+## Day 36 : July 19, 2021 | Exercise: Continuous Application Deployment
+
+### Day 15 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I attended 4 activities: Study Jam Tunes, Complete Overview on Docker, How to start career as DevOps Engineer and Bingo. Total: 14 activities
+  2. Today I am working with exercise: Continuous Application Deployment
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali
+
+### My activities
+  I did the review of extra resources
+  
