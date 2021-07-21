@@ -544,3 +544,15 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D35_Co
 ### My activities
   I did the review of extra resources
   
+## Day 37 : July 20, 2021 | CD Fundamentals
+
+### Day 16 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I worked with the exercise: Continuous Application Deployment
+  2. Today I am learning about The CD Fundamentals and I completed Sprint 2
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida
+
+### My activities
+  I search more information about Argo CD
