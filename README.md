@@ -556,3 +556,16 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D35_Co
 
 ### My activities
   I search more information about Argo CD
+  
+## Day 38 : July 21, 2021 | ArgoCD Walkthrough
+
+### Day 17 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about The CD Fundamentals
+  2. Today I am learning about ArgoCD Walkthrough
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida
+
+### My activities
+  I am preparing a presentation for Cientificas de Datos Bolivia
