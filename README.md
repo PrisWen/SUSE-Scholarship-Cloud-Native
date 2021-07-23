@@ -569,3 +569,22 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D35_Co
 
 ### My activities
   I am preparing a presentation for Cientificas de Datos Bolivia
+  
+## Day 39 : July 22, 2021 | Exercise: The CD Fundamentals
+
+### Day 18 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about ArgoCD Walkthrough
+  2. Today I am working with Exercise: The CD Fundamentals
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida
+
+### My activities
+  Today I was a speaker in an awesome event "Cientificas de datos" organized by @susyjam
+
+[D39]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D39_Cientificas_Datos.jpg
+
+#### Cientificas de Datos
+![ Cientificas de Datos ][D39]
