@@ -588,3 +588,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D39_Ci
 
 #### Cientificas de Datos
 ![ Cientificas de Datos ][D39]
+
+## Day 40 : July 23, 2021 | Helm Walkthrough
+
+### Day 19 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I worked with Exercise: The CD Fundamentals
+  2. Today I am learning about Helm Walkthrough
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida
+
+### My activities
+  Today check in detail some new concepts
+
