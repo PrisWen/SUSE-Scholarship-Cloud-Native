@@ -618,5 +618,12 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D39_Ci
 [D41]: 
 https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_st_spaic.PNG
 
+[D41_2]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_quiz_D1.PNG
+
 #### st_spaic 
 ![ st_spaic ][D41]
+
+#### D1 #11DAYSOFCLOUDQUIZ 
+![ D1 #11DAYSOFCLOUDQUIZ ][D41_2]
+
