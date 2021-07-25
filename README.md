@@ -602,3 +602,21 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D39_Ci
 ### My activities
   Today check in detail some new concepts
 
+## Day 41 : July 24, 2021 | Finalized course
+
+### Day 20 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I learned about Helm Walkthrough
+  2. Today I finished the course
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida @AndyP
+
+### My activities
+  Thanks to @Gurpreet.Kaur for DAY 1 of Challenge #11DAYSOFCLOUDQUIZ and thanks to @Mariia and @Jens.Gaulke for the good presentation #st_spaic
+
+[D41]: 
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_st_spaic.PNG
+
+#### st_spaic 
+![ st_spaic ][D41]
