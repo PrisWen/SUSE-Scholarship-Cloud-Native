@@ -627,3 +627,16 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_qu
 #### D1 #11DAYSOFCLOUDQUIZ 
 ![ D1 #11DAYSOFCLOUDQUIZ ][D41_2]
 
+## Day 42 : July 25, 2021 | Review Lesson 1
+
+### Day 21 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I finished the course
+  2. Today I am reviewing lesson 1
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida @AndyP
+
+### My activities
+  Thanks to @Gurpreet.Kaur for DAY 2 of Challenge #11DAYSOFCLOUDQUIZ
+
