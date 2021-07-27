@@ -639,4 +639,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_qu
 
 ### My activities
   Thanks to @Gurpreet.Kaur for DAY 2 of Challenge #11DAYSOFCLOUDQUIZ
+  
+## Day 43 : July 26, 2021 | Quizzes
+
+### Day 22 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I reviewed lesson 1
+  2. Today I participated in DAY 3 and 4 of Challenge #11DAYSOFCLOUDQUIZ
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida @AndyP
+
+### My activities
+  I reviewed some resources about Databricks
 
