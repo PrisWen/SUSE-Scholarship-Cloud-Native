@@ -666,3 +666,15 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_qu
 ### My activities
   I review some resources about Docker
 
+## Day 45 : July 28, 2021 | Checklist for successful completion
+
+### Day 24 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I voted for Student Stories
+  2. Today I checked the list for successful completion of Phase 1
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida @AndyP
+
+### My activities
+  I review some resources about Docker
