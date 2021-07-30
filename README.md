@@ -678,3 +678,18 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_qu
 
 ### My activities
   I review some resources about Docker
+
+## Day 46 : July 29, 2021 | End of program party 
+
+### Day 25 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I checked the list for successful completion of Phase 1
+  2. Today I attended end of program party 
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @Temitayo.Ilori @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Leah.Erb @Juan.Carlos.Kuri.Pinto @syahril.ramadhan @Md.Masud.Rana @Della.Dominic @Joanne.Jons @Tharani.Vadde @rajendra.ladkat @susyjam @Patricio.Rojas @Ali @Frida @AndyP
+  
+  I love this community because you always inspire and support me.
+
+### My activities
+  I review some resources about Docker
