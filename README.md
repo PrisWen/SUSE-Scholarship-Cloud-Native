@@ -693,3 +693,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_qu
 
 ### My activities
   I review some resources about Docker
+
+## Day 47 : July 30, 2021 | Review lessons 2 and 3
+
+### Day 26 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I attended end of program party
+  2. Today I reviewed lessons 2 and 3
+  3. No blockers
+  I would like to encourage @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Juan.Carlos.Kuri.Pinto @Della.Dominic @Joanne.Jons @susyjam @Patricio.Rojas @Ali @Frida @AndyP @ayse.nur
+  Enjoying the last days of this wonderful community
+  
+### My activities
+  I review some resources about Docker
