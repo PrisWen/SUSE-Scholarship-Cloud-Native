@@ -724,9 +724,22 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D41_qu
 [D48]: 
 https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D48_st_spaic.PNG
 [D48_2]: 
-https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D48_st_spanish.PNG
+https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D48_st_spanish.png
 
 #### st_spaic
 ![ st_spaic ][D48]
 #### st_spanish
 ![ st_spanish ][D48_2]
+
+## Day 49 : August 1, 2021 | Reviewing lessons
+
+### Day 28 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I attended the weekly meetings in #st_spaic and #st_spanish with last activities. 
+  2. Today I am reviewing all the lessons. 
+  3. No blockers
+  I would like to encourage @susyjam @Patricio.Rojas @Ali @Frida @AndyP @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Juan.Carlos.Kuri.Pinto @Della.Dominic @Joanne.Jons @ayse.nur @Danilo.Britto.Scholar @fernando.terrazas @Mariia @Jens.Gaulke @Matthew.Glassman@Santhosh.G.S @Yash.Bhamare.242 @OmarGhoche
+  
+### My activities
+  I review some resources about Docker
