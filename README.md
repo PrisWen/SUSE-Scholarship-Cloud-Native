@@ -743,3 +743,17 @@ https://github.com/PrisWen/SUSE-Scholarship-Cloud-Native/blob/main/assets/D48_st
   
 ### My activities
   I review some resources about Docker
+  
+## Day 50 : August 2, 2021 | Final day
+
+### Day 29 #Sprint 2 
+
+### #daily_scrum 
+  1. Yesterday I reviewed all the lessons.
+  2. Today the "final day" I am reviewing Slack and all the resources.
+  3. No blockers
+  We had good memories, it was a pleasure to meet you and learn together. Thanks for all the support @susyjam @Patricio.Rojas @Ali @Frida @AndyP @Nuria.Malet @Gurpreet.Kaur @Srishti.Guleria @OmarGhoche @DSdatsme @LinuxRobotGeek @AudreyST @Juan.Carlos.Kuri.Pinto @Della.Dominic @Joanne.Jons @ayse.nur @Danilo.Britto.Scholar @fernando.terrazas @Mariia @Jens.Gaulke @Matthew.Glassman@Santhosh.G.S @Yash.Bhamare.242 @OmarGhoche @Ali 
+  I hope to see you in next scholarships
+  
+### My activities
+  Reviewing announcements and triple check that I have completed the exercises
